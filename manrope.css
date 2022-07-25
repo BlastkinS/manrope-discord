@@ -1,0 +1,4 @@
+::placeholder, body, button, input, select, textarea {
+    font-family: "Manrope","Noto Color Emoji",Manrope,Helvetica Neue,Arial,sans-serif !important;
+    text-rendering: optimizeLegibility;
+}

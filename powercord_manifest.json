@@ -1,0 +1,9 @@
+{
+    "name": "Manrope Font",
+    "description": "discord but with manrope, nothing crazy",
+    "version": "1.0.0",
+    "author": "BlastkinS#7121",
+    "license": "MIT",
+    "theme": "manrope.css",
+    "consent": "false"
+  }
